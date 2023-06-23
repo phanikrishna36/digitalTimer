@@ -1,0 +1,105 @@
+/* Write your CSS here */
+.cont {
+  background-image: linear-gradient(to left, #cffcf1, #ffffff);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cont1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  height: 80vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont2 {
+  background-color: white;
+  border-radius: 800px;
+  height: 18vh;
+  width: 10vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.insideCont {
+  display: flex;
+  flex-direction: row;
+}
+
+.btnStyle {
+  background-color: transparent;
+  outline: none;
+  border-width: 0px;
+}
+
+.btnImg {
+  height: 46px;
+  width: 70px;
+}
+
+.cont3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.lastCont {
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.last1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.setCont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.minusBtn {
+  font-size: 40px;
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.para {
+  background-image: linear-gradient(to left, #defafe, #cffcf1, #00d9f5);
+  width: 80px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+.btnPara {
+  display: flex;
+  flex-direction: row;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.paraMain {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.head {
+  color: #00d9f5;
+}
